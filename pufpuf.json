@@ -1,0 +1,15 @@
+{
+  "brand": "PufPuf",
+  "tagline": "Cuidado que se sente",
+  "products": [
+    {
+      "name": "Escova PufPuf",
+      "price": 49.9
+    },
+    {
+      "name": "Creme PufPuf 300 g",
+      "price": 42.9
+    }
+  ],
+  "educational_project": true
+}
